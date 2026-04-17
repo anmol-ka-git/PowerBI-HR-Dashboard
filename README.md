@@ -19,4 +19,4 @@ Insights
 - Analyzed employee distribution across categories
 
 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](HR_Analytics_Dashboard.png)
